@@ -1,0 +1,10 @@
+path setting in java
+
+JAVA_HOME:C:\Program Files\Java\jdk1.8.0_121
+path:C:\Program Files\Java\jdk1.8.0_121\bin
+
+
+mycomputer->rightclick->properites->Advanced sys settngs->Envi Variable
+
+->System variables
+->user varaibles
